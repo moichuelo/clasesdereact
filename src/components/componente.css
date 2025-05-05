@@ -1,0 +1,11 @@
+#componente {
+    h1 {
+        background-color: burlywood;
+        color: darkslategrayç;
+    }
+
+    p {
+        background-color: darkslategray;
+        color: burlywood;
+    }
+}

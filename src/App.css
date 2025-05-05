@@ -1,0 +1,6 @@
+.borde {
+    border: 3px solid rgb(47, 47, 47);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
