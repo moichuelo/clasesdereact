@@ -15,6 +15,11 @@ function Header() {
                         </Link>
                     </li>
                     <li>
+                        <Link className="link" to="/blog">
+                            Blog
+                        </Link>
+                    </li>
+                    <li>
                         <Link className="link" to="/formulario">
                             Formulario
                         </Link>
