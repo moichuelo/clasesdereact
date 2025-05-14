@@ -24,6 +24,11 @@ function Header() {
                             Formulario
                         </Link>
                     </li>
+                    <li>
+                        <Link className="link" to="/opciones">
+                            Opciones
+                        </Link>
+                    </li>
                 </ul>
             </nav>
         </header>

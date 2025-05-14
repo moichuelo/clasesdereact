@@ -6,6 +6,7 @@ function PostDet() {
     const [post, setPost] = useState();
 
     const { id } = useParams();
+    // console.log("Card");
 
     const fetchPost = async (id) => {
         const res = await fetch(
